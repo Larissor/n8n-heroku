@@ -1,1 +1,1 @@
-web: n8n start
+web: n8n start heroku buildpacks:set heroku/nodejs
